@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eritento.github.io/sitemap.html.gz
+Sitemap: https://eritento.github.io/app/sitemap.html.gz
+Sitemap: https://eritento.github.io/assets/sitemap.html.gz
+Sitemap: https://eritento.github.io/css/sitemap.html.gz
+Sitemap: https://eritento.github.io/data/sitemap.html.gz
+Sitemap: https://eritento.github.io/includes/sitemap.html.gz
+Sitemap: https://eritento.github.io/item/sitemap.html.gz
+Sitemap: https://eritento.github.io/src/sitemap.html.gz
